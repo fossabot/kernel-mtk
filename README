@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2Fkernel-mtk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2Fkernel-mtk?ref=badge_shield)
+
         Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
@@ -410,3 +412,6 @@ IF SOMETHING GOES WRONG:
    gdb'ing a non-running kernel currently fails because gdb (wrongly)
    disregards the starting offset for which the kernel is compiled.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2Fkernel-mtk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2Fkernel-mtk?ref=badge_large)
